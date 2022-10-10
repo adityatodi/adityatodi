@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityatodi
 - 👀 I’m interested in Machine Learning and everything data
-- 🌱 I’m currently actively learning Natural Language Processing
+- 🌱 I’m actively learning Natural Language Processing
 - 📫 Email - adityatodi97@gmail.com
 
 <!---
