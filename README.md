@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityatodi
 - 👀 I’m interested in Machine Learning and everything data
-- 🌱 I’m actively learning Natural Language Processing
-- 📫 Email - adityatodi97@gmail.com
+- 🌱 I’m an avid Natural Language Processing problem solver
+- 📫 Email - atodi@cs.stonybrook.edu
 
 <!---
 adityatodi/adityatodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
