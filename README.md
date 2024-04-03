@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @adityatodi
-- 👀 I’m interested in Machine Learning and everything data
-- 🌱 I’m an avid Natural Language Processing problem solver
+- 💼 Software Developer with 2 years of experience at @GoldmanSachs
+- 👀 Passionate about Machine Learning with an avid interest in Natural Language Processing (LLMs, GenerativeAI, Multimodal)
+- 💻 Open source contributer
+- ☕️ Java lover
 - 📫 Email - atodi@cs.stonybrook.edu
 
 <!---
